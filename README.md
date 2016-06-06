@@ -38,7 +38,7 @@ Take "./views", "./_posts", and "./public" from gator-dev after you build your s
 
 The app will serve up the blog on:
 
-http://localhost:3000
+[http://localhost:3000](http://localhost:3000)
 
 The default Poet examples are already set up to serve from "./views".
 
